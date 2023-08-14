@@ -22,8 +22,7 @@ export default function RootLayout({ children }) {
         {children}
         <Footer/>
         </div>
-        </ThemeProvider>
-       
+        </ThemeProvider>       
         </body>
     </html>
   )
