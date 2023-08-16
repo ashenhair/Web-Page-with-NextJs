@@ -3,7 +3,6 @@ import styles from "./footer.module.css";
 import Image from 'next/legacy/image'
 
 
-
 const footer = () => {
   return (
     <div className={styles.container}>
