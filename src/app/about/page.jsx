@@ -3,7 +3,9 @@ import styles from './page.module.css'
 import classics from "public/classics.jpg";
 import Button from '../components/Button/Button';
 
+
 const About = () => {
+  
   return (
     <div className={styles.container}>
       <div className={styles.imgContainer}>
