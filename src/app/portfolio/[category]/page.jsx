@@ -5,8 +5,6 @@ import Image from "next/image";
 import Button from "../../components/Button/Button"
 
 
-
-
 const Category = ({params}) => {
   
   return (
@@ -35,8 +33,7 @@ const Category = ({params}) => {
           src={classics} alt="" />
         </div>
       </div>
-
-      
+     
     </div>
    
   )
